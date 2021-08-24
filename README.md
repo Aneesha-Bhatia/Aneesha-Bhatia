@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Aneesha Bhatia</h1>
 <h3 align="center">A passionate Frontend and Backend developer hooked to Python</h3>
 
-- 🔭 I’m currently working on [School /Management](https://github.com/Aneesha-Bhatia/School_Management.git)
+- 🔭 I’m currently working on [School Management](https://github.com/Aneesha-Bhatia/School_Management.git)
 
 - 🌱 I’m currently learning **Javascript**
 
