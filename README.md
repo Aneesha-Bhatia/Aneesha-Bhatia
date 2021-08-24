@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [School Management](https://github.com/Aneesha-Bhatia/School_Management.git)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently working as **Trainee Developer with Blend Infotech**
 
 - 👯 I’m looking to collaborate on **Python,Django,CSS and HTML projects**
 
