@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aneesha Bhatia</h1>
-<h3 align="center">A passionate Frontend and Backend developer from India</h3>
+<h1 align="center">Hola 👋, I'm Aneesha Bhatia</h1>
+<h3 align="center">A passionate Frontend and Backend developer hooked to Python</h3>
 
-- 🔭 I’m currently working on [School Management](https://github.com/Aneesha-Bhatia/School_Management.git)
+- 🔭 I’m currently working on [School /Management](https://github.com/Aneesha-Bhatia/School_Management.git)
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -11,12 +11,14 @@
 
 - 📫 How to reach me **aneeshabhatia.1234@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1auOAx-Hsxmwzc2VJctHbiglhodKw9spX/view?usp=sharing](https://drive.google.com/file/d/1auOAx-Hsxmwzc2VJctHbiglhodKw9spX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yPsNNgMV9uZC_WQlmt3LRTG_krK2BwZW/view?usp=sharing](https://drive.google.com/file/d/1yPsNNgMV9uZC_WQlmt3LRTG_krK2BwZW/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aneesha bhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesha bhatia" height="30" width="40" /></a>
+<a href="https://fb.com/aneesha bhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aneesha bhatia" height="30" width="40" /></a>
 <a href="https://instagram.com/dynamic_mishrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dynamic_mishrii" height="30" width="40" /></a>
 </p>
 
